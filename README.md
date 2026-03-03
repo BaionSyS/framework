@@ -26,7 +26,7 @@ BAION — the **Biological AI Orchestration Network** — is not inspired by a s
 
 ## The synthesis
 
-{% card %}
+
 ### The BAION Architecture
 BAION has a **mycelium** foundation, a **bacterial** consensus layer, an **octopus** body, and a **human** brain — connected by a **thalamus** equivalent that translates between the distributed lower layers and the integrated upper layers.
 {% endcard %}
