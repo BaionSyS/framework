@@ -1,4 +1,4 @@
-# BAION — The Body Problem
+# BAION — The 4 Body Problem
 
 The industry is building better and better parts. Faster models. Bigger context windows. Smarter agents. Better benchmarks every year.
 
