@@ -1,5 +1,7 @@
 # Charge for Responsibility, Not Control
 
+> **Editor's note (2026-07-15):** This piece states the open model in the present tense ("Everything else is open. The core engine. The signal architecture."). As of this note, the coordination substrate and related core components are **not yet released** — they are an active research program pending counsel review, as the [organization profile](https://github.com/BaionSyS) states. The accurate formulation: BAION's intended long-term licensing model is to make the core self-hostable and openly inspectable when the relevant components are cleared and ready for release. The principle in this piece stands; the tense was ahead of the state. Body below is unchanged per `BAION_PUBLICATION_REVISION_POLICY` §2.2.
+
 The first piece described the problem. The industry builds better parts. Nobody builds the body. The second piece showed how the body governs itself. The third showed how the body validates what it knows.
 
 Each piece built toward this one.

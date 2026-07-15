@@ -1,5 +1,7 @@
 ## How the Body Governs Itself
 
+> **Editor's note (2026-07-15):** This piece describes design intent in absolute terms — "compromise in an outer zone cannot reach the core," "physically incapable of violating" — that BAION's later work states more carefully. A language boundary **contributes to** a security boundary when reinforced by process, privilege, memory, serialization, and input-validation boundaries; a language change by itself does not contain compromise. Zone separation and gates are enforcement *mechanisms whose strength must be demonstrated per component*, not a blanket guarantee. The published, executable form of BAION's enforcement discipline — with its limits stated explicitly — is [BaionSyS/baion-vault-method](https://github.com/BaionSyS/baion-vault-method). Body below is unchanged per `BAION_PUBLICATION_REVISION_POLICY` §2.2.
+
 The first piece described the problem. The industry builds better parts. Nobody builds the body. BAION — the Biological AI Orchestration Network — exists to be that body.
 
 This piece shows how the body governs itself. Not with promises. With architecture.
