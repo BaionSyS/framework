@@ -1,4 +1,3 @@
----
 ## BAION — The 4 Body Problem
 
 > **Editor's note (2026-07-15):** One line below — "When the threshold is crossed, the result is trusted" — states BAION's convergence claim more absolutely than later work supports. Crossing a convergence threshold produces **evidence of consistency under documented independence assumptions**, not established truth; it becomes decision-grade only with source quality, task controls, and human authority. The refined, executable discipline is published at [BaionSyS/baion-vault-method](https://github.com/BaionSyS/baion-vault-method). Body below is unchanged per `BAION_PUBLICATION_REVISION_POLICY` §2.2.
