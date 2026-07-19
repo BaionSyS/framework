@@ -1,6 +1,6 @@
 ## BAION — The 4 Body Problem
 
-> **Editor's note (2026-07-15):** One line below — "When the threshold is crossed, the result is trusted" — states BAION's convergence claim more absolutely than later work supports. Crossing a convergence threshold produces **evidence of consistency under documented independence assumptions**, not established truth; it becomes decision-grade only with source quality, task controls, and human authority. The refined, executable discipline is published at [BaionSyS/baion-vault-method](https://github.com/BaionSyS/baion-vault-method). Body below is unchanged per `BAION_PUBLICATION_REVISION_POLICY` §2.2.
+> **Editor's note (2026-07-15; strengthened 2026-07-19):** The sentence "**When the threshold is crossed, the result is trusted**" — in *Why bacteria matters*, below — is **superseded** and should not be read as a current claim. Crossing a convergence threshold produces **evidence of consistency under documented independence assumptions**, not established truth; it becomes decision-grade only with source quality, task controls, and human authority. Read that sentence as: *when the threshold is crossed, the result is treated as convergent evidence, pending those controls* — not as established truth. The refined, executable discipline is published at [BaionSyS/baion-vault-method](https://github.com/BaionSyS/baion-vault-method). The essay body below is preserved unchanged per `BAION_PUBLICATION_REVISION_POLICY` §2.2 (supersede, never replace).
 
 ---
 
